@@ -1,2 +1,2 @@
-## 0.0.1 - First Release
+## 0.0.0 - First Release
 * Initial port of "up.vim" from https://github.com/atom/up-syntax
